@@ -1,0 +1,30 @@
+ID: ID
+NAME: Аталышы
+VERSION: Версия
+AUTHOR: Автор
+TURNED_ON: Иштейби?
+LINK: Дарек
+OWN_LANG: Өздүк тили
+DESCRIPTION: Түшүндүрмө
+ACTION: Аракет
+COMPONENTS: Компоненттер
+WIDGETS: Виджеттер
+SETTINGS: Орнотуулар
+TEMPLATE: Калып
+TEMPLATES: Калыптар
+UPLOAD: Жүктөө
+POSITION: Позиция
+TO_ALL: Баарына
+TO_USERS: Колдонуучуларга
+TO_GUESTS: Конокторго
+COMPONENT: Компонент
+WIDGET: Виджет
+EXPORT: Экспорттоо
+MENU: Меню
+SHOW_ALL: Баарын көрүү
+ADD_NEW: Жаңысын кошуу
+HELP: Жардам
+DASHBOARD: Сайттын абалы
+PROFILE: Профиль
+SIGN_OUT: Чыгуу
+FRIENDS: Досторум

@@ -1,0 +1,18 @@
+<?php
+	$Page = Page::set();
+	
+?>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><?php echo TEMPLATE.' - 404'?></title>
+<?php $Page->setCss("styles");?>
+<?php $Page->setCss("bootstrap");?>
+<?php $Page->setJs("jquery");?>
+<?php $Page->setJs("bootstrap");?>
+</head>
+<body>
+Error404
+</body>
+</html>

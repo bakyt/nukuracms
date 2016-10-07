@@ -1,0 +1,78 @@
+USERS: Колдонуучулар
+LOGIN: Кирүү
+REGISTRATION: Каттоо
+NAME: Аты
+SURNAME: Жөнү
+EMAIL: E-Mail
+USERNAME: Ысым
+PASSWORD: Сыр сөз
+RE_PASSWORD: Сыр сөздү кайталоо
+OLD_PASSWORD: Эски сыр сөз
+NEW_PASSWORD: Жаңы сыр сөз
+AVATAR: Аватар
+JYNYSY: Жынысы
+ONLY_LATYN: Латын тамгалары
+NUMBERS: Цифралар
+MALE: Эркек
+FEMALE: Аял
+NO_CHOSEN: Белгисиз
+REMIND_ME: Мени эсте тут
+AND: жана
+OR: же
+ADMINISTRATORS: Администраторлор
+GUESTS: Коноктор
+LOGOUT: Чыгуу
+PROFILE: Профиль
+SEND: Жөнөтүү
+RESTORE: Кайра орнотуу
+LASTVISIT: Акыркы визит
+STATUS: Статус
+REGDATE: Катталган күнү
+GROUP: Группасы
+VISIBLE: Абал
+BIRTHDATE: Туулган күнү
+ACTIVATE: Ырастоосу
+NEW_USERS_STATUS: Саламатсыздарбы!
+NEW_MSG: Жаңы кат
+MESSAGE: Каттар
+FRIENDS: Достор
+FRIENDSHIP: Достошуу
+ACCEPT: Кабыл кылуу
+CANCEL: Четке кагуу
+BREAK_FRIENDSHIP: Достукту бузуу
+NOTICE: Билдирүүлөр
+YOU_HAS_NO_FRIENDS: Сиз эч ким менен достошо элексиз.
+SETTINGS: Орнотуулар
+SEND_FRIENDSHIP_SUCCESS: Достошууга сунуштоо жөнөтүлдү!
+PASSWORD_CANT_BE_LESS_THAN_SIX: Сыр сөз алты символдон кем боло албайт!
+EDITING_SUCCESSFUL: Өзгөртүү киргизүү ийгиликтүү аяктады!
+CANT_CREATE_LOGIN: аттуу ысым ачуу мүмкүн эмес!
+ALREADY_USED_LOGIN: Көрсөтүлгөн ысым бош эмес!
+ALREADY_HAVE: бош эмес!
+WRITE_YOUR_NAME: Атыңызды жазыңыз!
+WRITE_YOUR_EMAIL: E-Mailди жазыңыз!
+WRITE_A_LOGIN: Ысымыңызды жазыңыз!
+WRITE_A_PASSWORD: Сыр сөздү жазыңыз!
+PASS_NOT_MATCH: Сыр сөздөр дал келбеди!
+WRITE_CODE: Сүрөттөгү кодту жазыңыз!
+WRONG_CODE: Код ката!
+REGISTRATION_SUCCESS: Каттоо ийгиликтүү аяктады!
+ACTIVATE_SEND: Каттоодо көрсөтүлгөн E-Mail дарегине активдештирүү инструкциясы жөнөтүлдү!
+WRONG_PASS_OR_LOGIN: Ысым же сыр сөз ката!
+FORBIDDEN_FOR_YOU: Кирүүгө мүмкүнчүлүк алуу үчүн Администраторго кайрылыңыз!
+SEE_YOU: Сиз сайттагы профилиңизден чыктыңыз. Сайтка кайра киргенче саламатта болуңуз!
+ADDING_PHOTO: Сүрөт кошууда
+REGISTERING: катталууда, тосуп алабыз
+ADDING_SUCCESSFUL: Өзгөртүү киргизүү ийгиликтүү аяктады!
+DELETING_SUCCESSFUL: Тандалган тасма өчүрүлдү
+FRIENDSHIP_SENT: Сунуштоодон баш тартуу
+YOURE_FRIENDS_RIGHT_NOW: эми сиз менен дос
+YOURE_NOT_FRIENDS_RIGHT_NOW: эми сиз менен дос эмес.
+ALREADY_YOU_ARE_FRIENDS: Силер эбак эле достошконсуңар
+YOU_ARE_NOT_FRIENDS: Силер дос эмессиңер
+PLEASE_FILL_OUT_THIS_FIELD: Сураныч бул боштукту толтуруңуз!
+WRONG_ID: Достошуу мүмкүн эмес
+FRIENDSHIP_CANCELED: Сунуштоодон баш тартылды
+FRIENDSHIP_BROKE: Достошуу бузулду
+THIS_USER_WANTS_TO_BE_FRIEND: Бул колдонуучу сиз менен достошууну каалайт
+REGISTRATION_PROBLEMS: Каттоодо ката чыкты, Администрацияга кайрылыңыз.

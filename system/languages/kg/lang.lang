@@ -1,0 +1,55 @@
+HOME: Башкы бет
+INFORMATION: Маалымат
+DESCRIPTION: Түшүндүрмө
+ERROR: Ката
+COPYRIGHT: Бардык укуктар корголгон.
+CHANGE: Алмаштыруу
+EDIT: Оңдоо
+DATE: Дата
+JANUARY: Январь
+FEBRUARY: Февраль
+MARCH: Март
+APRIL: Апрель
+MAY: Май
+JUNE: Июнь
+JULY: Июль
+AUGUST: Август
+SEPTEMBER: Сентябрь
+OCTOBER: Октябрь
+NOVEMBER: Ноябрь
+DECEMBER: Декабрь
+YEAR: Жыл
+COMPONENTS: Компоненттер
+ADD: Кошуу
+DELETE: Өчүрүү
+ACCEPT: Кабыл кылуу
+CANCEL: Баш тартуу
+NOT_FOUND: табылган жок.
+NAMED: аталышындагы
+FILE: файл
+BACK: Артка кайтуу
+DAY: Күн
+HOUR: Саат
+MINUTE: Мүнөт
+SECONDS: Секунд
+CAPTCHA: Капча
+CODE: Код
+ALL: Баары
+ADMINISTRATION: Башкаруу панели
+TO_SITE: Сайтка өтүү
+INSTALLATION: Орнотуу
+DATABASE: База данных
+SITE_CONFIGURATION: Сайт орнотуулары
+ADMIN_CONFIGURATION: Админ орнотуулары
+ABOUT_CMS: Движок жөнүндө
+FILES: Файлдар
+COMPLETED: аяктады
+WARNING: Эскертүү
+NOTICE: Билдирүү
+CANT_SEND_NOTICE: Билдирүү жөнөтүлбөдү
+SAVE: Сактоо
+YES:Ооба
+NO:Жок
+HAS:Бар
+UNKNOWN:Белгисиз
+NEW: Жаңы

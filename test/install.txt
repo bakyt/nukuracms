@@ -1,0 +1,10 @@
+﻿
+version=1.2
+author=Багыт Корпорациясы
+description=Бул жаңы калып.
+type=template
+name=Жашыл калып
+folder=green
+positions=usermenu,menu,top,left,up_bottom,bottom_1,bottom_2,bottom_3,bottom_4
+image=/templates/green/images/positions.png
+cms_version=1.0

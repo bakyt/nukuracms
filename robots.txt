@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /components/administration
+
+Disallow: /administration
+
+Disallow: /admin
